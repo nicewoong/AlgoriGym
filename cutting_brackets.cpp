@@ -21,7 +21,7 @@ int sliceable_count = 0;
 int sum_of_slice = 0;
 
 
-int main() {
+void prob() {
     string brackets;
     cin>>brackets;  // input barkets sitrngs
     
@@ -63,8 +63,13 @@ int main() {
         
     }
     
-    cout << sum_of_slice;
+    cout << sum_of_slice <<"\n";
     
+}
+
+
+int main() {
+    prob();
 }
 
 
