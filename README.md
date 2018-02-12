@@ -1,4 +1,6 @@
-# AlgoriGym - 나만의 알고리즘 단련장! (My Algorithm-training centre )
+# AlgoriGym  
+
+## 나만의 알고리즘 단련장! (My Algorithm-training centre )
  
 
 
