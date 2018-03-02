@@ -1,6 +1,6 @@
 //
 //  로또 (조합 문제는 순열 문제에다가 1이랑 0 대입해서 풀기 )
-//  1963.cpp
+//  6603.cpp
 //  AlgoriGym
 //
 //  Created by nicewoong on 2018. 3. 1..
